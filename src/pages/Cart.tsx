@@ -1,5 +1,4 @@
 import { ShoppingCart, Trash2, Truck } from 'lucide-react';
-import React from 'react'
 import { Link } from 'react-router-dom';
 import { formatCurrency } from '../utils/helpers';
 import { useCart } from '../contexts/CartContext';

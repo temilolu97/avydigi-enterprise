@@ -1,5 +1,5 @@
 import React from 'react'
-import { useCart, type CartItem } from '../contexts/CartContext';
+import { useCart, } from '../contexts/CartContext';
 import { Laptop, Phone, Star } from 'lucide-react';
 import { formatCurrency } from '../utils/helpers';
 import type { Product } from '../data/products';

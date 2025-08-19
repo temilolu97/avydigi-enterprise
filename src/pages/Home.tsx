@@ -1,4 +1,3 @@
-import React from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import ProductCard from '../components/ProductCard'
 import { ArrowRight, RotateCcw, Shield, Truck } from 'lucide-react'
